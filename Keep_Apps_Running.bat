@@ -1,0 +1,1 @@
+powershell -ep Bypass ./Launch_App_If_Not_Running.ps1
